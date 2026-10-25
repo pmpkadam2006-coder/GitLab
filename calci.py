@@ -1,3 +1,4 @@
+#devvops
 def calci(a,b):
     return a*b-b
 
